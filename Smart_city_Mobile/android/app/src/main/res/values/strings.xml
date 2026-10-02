@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prime City</string>
+    <string name="default_notification_channel_id">community_updates_v2</string>
+</resources>

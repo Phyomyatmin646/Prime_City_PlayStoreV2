@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530809003750",
+    "project_id": "prime-city-2915c",
+    "storage_bucket": "prime-city-2915c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530809003750:android:b12f82d27a9fa160de2527",
+        "android_client_info": {
+          "package_name": "com.dynamixwave.emergencymyanmar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBTL1elj5cBT5lBY00KeYKQs6_-CmiVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530809003750:android:d5e80a5fa8e470c2de2527",
+        "android_client_info": {
+          "package_name": "com.smartcitymobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBTL1elj5cBT5lBY00KeYKQs6_-CmiVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
